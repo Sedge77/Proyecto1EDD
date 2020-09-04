@@ -1,3 +1,1 @@
-"D:\Programas\PROGRAMAS-D\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Proyecto1_EDD.dir/objects.a
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\Proyecto1_EDD.dir/objects.a @CMakeFiles\Proyecto1_EDD.dir\objects1.rsp
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\Proyecto1_EDD.dir/objects.a -Wl,--no-whole-archive  -o Proyecto1_EDD.exe -Wl,--out-implib,libProyecto1_EDD.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Proyecto1_EDD.dir\linklibs.rsp
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Proyecto1_EDD.dir/main.cpp.o  -o Proyecto1_EDD 
