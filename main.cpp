@@ -23,7 +23,7 @@ int main() {
     int opc; //Declarando variable opcion
     cin>>opc; //Para recibir la variable opc
 
-    while (opc!=7); { //Este es un ciclo para repetir algo
+     //Este es un ciclo para repetir algo
 
         switch (opc) { //Aqui se coloca el nombre de la variable de opciones
             case 1:
@@ -48,7 +48,6 @@ int main() {
                 cout << "Esperamos volverlo a ver";
                 break;
         }
-    }
 
 
     return 0;
